@@ -81,7 +81,7 @@ li{
     font-size: 40px;
     background-color: black;
     background-size: cover;
-    animation: backgroundMove 5s infinite linear;
+    background-attachment: fixed("C:\Users\Orange\Desktop\af71d55c0f3be312eeb97ddd73f95bbd.jpg");
 }
 .more{
     background-color: #f2f2f2;
