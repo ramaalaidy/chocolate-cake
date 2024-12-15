@@ -68,10 +68,10 @@ li{
     font-family: brush script;
 }
 .ChocolateCake{
-    background-image: url(cake2.jpeg);
+    background-image: url(cake.jpeg);
 }
 .main-background{
-    background-image: url(cake2.jpeg);
+    background-image: url(cake1.png);
     background-repeat: no-repeat;
     padding-left: 70px;
     padding: 80px;
@@ -81,7 +81,7 @@ li{
     font-size: 40px;
     background-color: black;
     background-size: cover;
-    background-attachment: fixed("C:\Users\Orange\Desktop\af71d55c0f3be312eeb97ddd73f95bbd.jpg");
+    background-attachment: fixed;
 }
 .more{
     background-color: #f2f2f2;
