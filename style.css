@@ -87,10 +87,3 @@ li{
     background-color: #f2f2f2;
     font-size: 30px;
 }
-@keyframes backgroundMove {
-    from {
-      background-position: 0 0;
-    }
-    to {
-      background-position: 100% 100%;
-    }
